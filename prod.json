@@ -1,11 +1,1 @@
-{
-    "kind": "feed-item",
-    "type": "information",
-    "id": "005",
-    "title": "Tendies Portfolio Showdown",
-    "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-    "url": "https://showdown.tendies.af",
-    "image": "https://showdown.tendies.af/static/images/sidebar-ad.gif",
-    "buttonText": "Watch the Showdown",
-    "minimumVersion": "2.0.9"
-}
+
