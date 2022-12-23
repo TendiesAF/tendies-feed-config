@@ -1,11 +1,11 @@
 {
     "kind": "feed-item",
     "type": "information",
-    "id": "005",
-    "title": "Tendies Portfolio Showdown",
-    "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-    "url": "https://showdown.tendies.af",
-    "image": "https://showdown.tendies.af/static/images/sidebar-ad.gif",
-    "buttonText": "Watch the Showdown",
-    "minimumVersion": "2.0.9"
+    "id": "006",
+    "title": "Introducing Options Profit Calculator!",
+    "body": "Build multi-leg options strategies, calculate your payoff probability, and more...",
+    "url": "https://tendies.af/profit-calculator",
+    "image": "https://i.imgur.com/eIICaLV.png",
+    "buttonText": "Try Calculator",
+    "minimumVersion": "2.2.2"
 }
